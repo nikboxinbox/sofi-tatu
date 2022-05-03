@@ -1,0 +1,15 @@
+{
+  "name": "sofi-tatu",
+  "version": "0.0.1",
+  "description": "App tatu salon",
+  "author": "niknik",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^1.0.0",
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/core": "^3.0.0",
+    "@capacitor/splash-screen": "^1.0.0",
+    "@capacitor/android": "^3.0.0"
+
+  }
+}

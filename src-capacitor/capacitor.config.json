@@ -1,0 +1,7 @@
+{
+  "appId": "org.niknik.sofitatu.app",
+  "appName": "Sofi Tatu App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
