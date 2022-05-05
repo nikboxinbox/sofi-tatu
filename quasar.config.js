@@ -14,6 +14,9 @@ const { configure } = require("quasar/wrappers");
 
 module.exports = configure(function (ctx) {
   return {
+    bin: {
+      linuxAndroidStudio: "/home/ink/Programming/Educational_projects/android-studio/bin/studio.sh"
+     },
     // https://v2.quasar.dev/quasar-cli-webpack/supporting-ts
     supportTS: false,
 

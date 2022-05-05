@@ -1,22 +1,22 @@
-export default menuItems = [
+export const menuItems = [
   {
     displayName: "Запись",
-    icon: "home",
-    link: { path: "" },
+    icon: "today",
+    link: { path: "/record" },
   },
   {
     displayName: "Проекты",
-    icon: "home",
-    link: { path: "" },
+    icon: "draw",
+    link: { path: "/projects" },
   },
   {
     displayName: "Профиль",
-    icon: "home",
-    link: { path: "" },
+    icon: "person",
+    link: { path: "/profile" },
   },
   {
     displayName: "Филиалы",
-    icon: "home",
-    link: { path: "" },
+    icon: "location_on",
+    link: { path: "/affiliates" },
   },
 ];
